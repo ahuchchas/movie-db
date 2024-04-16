@@ -1,0 +1,15 @@
+{
+  "trending": "চলমান",
+  "new_releases": "নতুন মুক্তিপ্রাপ্ত",
+  "coming_soon": "শীঘ্রই আসছে",
+  "favourites": "প্রিয় তালিকা",
+  "watch_later": "পরে দেখুন",
+
+  "release_date": "মুক্তির তারিখ",
+  "average_vote": "গড় ভোট",
+  "vote_count": "গণনাকৃত ভোট",
+  "popularity": "জনপ্রিয়তা",
+
+  "stream_hd": "HD স্ট্রিম করুন",
+  "download_hd": "HD ডাউনলোড করুন"
+}
